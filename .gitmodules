@@ -1,3 +1,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/MikanAffine/Rustlings
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/MikanAffine/learning-cxx
